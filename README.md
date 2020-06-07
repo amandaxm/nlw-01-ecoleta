@@ -2,8 +2,8 @@
 
 ![coleta](https://user-images.githubusercontent.com/42248042/83971547-3a101900-a8b2-11ea-9e69-3d38c722beaa.png)
 
-### Projeto construído durante a Next Level Week. Ecoleta
-### Projeto Open Source desenvolvido na 1ª semana Next Level Week da Rocketseat utilizando as tecnologias:
+### Projeto construído durante a Next Level Week da Rocketseat,utilizando as seguintes tecnologias:
+
 1. TypeScript
 2. Node.js
 3. ReactJS
